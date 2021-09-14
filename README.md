@@ -12,7 +12,7 @@
 * attribute `loading="lazy"` in img
 * box shadow CSS property : (x-ofset, y-ofset, amount of blur, color)
 
-## Problem I encountered yesterday
+## Problem I encountered yesterday 🤔
 * small gap when `display: inline-block` [Solution 1](https://stackoverflow.com/questions/5078239/how-do-i-remove-the-space-between-inline-inline-block-elements) [Solution 2](https://css-tricks.com/fighting-the-space-between-inline-block-elements/)
 * 
 
